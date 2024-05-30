@@ -1,0 +1,16 @@
+{
+  "name": "beep2ptutorial",
+  "version": "1.0.0",
+  "description": "Decentralised Messaging Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Decentralised",
+    "Messaging",
+    "Application"
+  ],
+  "author": "Adegbenga Ogungbeje",
+  "license": "ISC"
+}
